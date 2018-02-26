@@ -1,6 +1,6 @@
 # Toxic Comment Classification
 
-![Баннер](https://github.com/ficusss/Toxic-Comment-Classification/blob/master/banner.png)
+![Баннер](https://github.com/ficusss/Toxic-Comment-Classification/blob/master/banner0.png)
 
 ## Введение. Цель проекта
 
